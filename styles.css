@@ -1,0 +1,60 @@
+h1{font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+img{width:250px;
+    height:200px;
+    text-align: center;
+}
+
+.better{
+    width:150px;
+     height:200px;
+    
+    }
+.okcard{
+    width:150px;
+     height:200px;
+       }
+.him{
+    width:150px;
+     height:200px;
+     }
+.trump{
+     text-align: center;
+}
+
+.Card{
+    justify-content: center;
+      display:flex;
+      
+      }
+.card1{
+    width:150px;
+     height:200px;
+}
+.best{
+    justify-content: center;
+      display:flex;
+      }
+     
+.magic{
+    justify-content: center;
+     display:flex;
+     
+}
+
+.button{
+    justify-content: center;
+     display:flex;
+}
+
+.button1{
+    justify-content: center;
+     display:flex;
+}
+.button2{
+    justify-content: center;
+     display:flex;
+     }
+body{background-image:url("https://deniselefay.files.wordpress.com/2010/07/book-wizard-2.jpg");}
